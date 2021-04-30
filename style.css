@@ -1,0 +1,56 @@
+*{
+    box-sizing: border-box;
+}
+
+h1 {
+    border: 3px solid chartreuse;
+    height: 50px;
+}
+
+p {
+    border: 3px solid blueviolet;
+}
+
+span {
+    background-color: cyan;
+    height: 200px;
+}
+
+.yellow {
+    /* float: left; */
+    background-color: yellow;
+    height: 100px;
+    width: 25vw;
+}
+
+.blue {
+    background-color: blue;
+    color: white;
+    height: 50px;
+    width: 50%;
+    margin: 20px;
+}
+
+.green {
+    /* float: right; */
+    background-color: green;
+    height: 100px;
+    width: 300px;
+    padding: 50px 20px;
+    /* padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 20px;
+    padding-left: 10px; */
+    border: 5px solid salmon;
+    /* margin: 10px auto; */
+}
+
+.purple {
+    /* float: left; */
+    background-color: purple;
+    height: 100px;
+    width: 300px;
+    margin: 20px;
+    padding: 20px;
+    color: white;
+}
